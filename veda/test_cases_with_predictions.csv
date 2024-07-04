@@ -1,0 +1,4 @@
+Engine Temperature,Oil Quality,Knock Sensor,Brake Pad Wear,Brake Temperature,Brake Vibration,Gear Torque,Transmission Fluid Quality,Transmission Speed,Suspension Strain,Shock Absorber Acceleration,Tire Pressure,Tire Tread Depth,Battery Voltage,Battery Current,Battery Temperature,Exhaust Pressure,Exhaust Gas Quality,Fuel Flow,Fuel Pressure,Fuel Quality,Coolant Level,Coolant Flow,Coolant Temperature,Steering Torque,Steering Fluid Level,Wire Current,Wire Voltage,Connector Temperature,Predicted Solution
+115,0.55,1.2,9,130,0.6,210,0.45,1300,45,0.8,22,2,10.5,25,50,25,0.6,45,25,0.5,0.6,12,105,18,0.5,9,9.5,55,Replace brake pads.
+90,0.65,0.3,7,75,0.2,180,0.85,1100,30,0.3,32,6,12.5,50,40,15,0.3,55,35,0.7,0.85,20,85,14,0.8,5,12.0,35,No Action Required
+80,0.4,0.8,8,110,0.5,190,0.5,1200,40,0.7,28,4,11.0,35,45,20,0.4,50,30,0.6,0.7,15,95,16,0.6,7,10.5,45,Inspect transmission for slippage.
